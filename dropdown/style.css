@@ -1,0 +1,29 @@
+.div1{
+    display: none;
+}
+
+.div1 .active{
+    display: block;
+}
+
+.div2 {
+    display: none;
+}
+
+.div2 .active{
+    display: block;
+}
+
+#select{
+    width: 200px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background: rgb(66, 99, 104);
+    color: #fff;
+    padding:10px;
+    border: none;
+    margin-bottom: 15px;
+    outline: none;
+}
