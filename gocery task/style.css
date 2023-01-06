@@ -1,0 +1,33 @@
+ul{
+    list-style: none;
+}
+
+ul li span{
+    font-size: 30px;
+    margin-left: 150px;
+    cursor: pointer;
+    
+}
+
+
+ul li{
+    font-size: 30px;
+    display:flex;
+    justify-content: space-between;
+
+}
+ul{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+input,button{
+    padding: 10px !important;
+    
+}
+
+button{
+    border: none;
+}
+
